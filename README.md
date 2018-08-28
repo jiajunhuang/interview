@@ -6,7 +6,7 @@ ref: https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.h
 
 版权声明：本repo所有内容遵守CC BY 3.0协议。请注明来源：https://jiajunhuang.com
 
-- [自我介绍，以及我和面试官的关系]()
+- [自我介绍，以及我和面试官的关系](https://jiajunhuang.com/articles/2018_03_10-interview.md.html)
 - [缓存相关](./cache.md)
 - [编译相关](./compile.md)
 - [协程](./coroutine.md)
