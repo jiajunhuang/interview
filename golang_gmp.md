@@ -1,6 +1,7 @@
 # Goroutine 和 Golang runtime
 
 ref: https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html
+
 ref: https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html
 
 ![GMP](./img/golang_gmp.jpg)
