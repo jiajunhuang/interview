@@ -1,5 +1,9 @@
 # 面经分享
 
+- 微信联系我
+
+![](./img/wechat_qrcode.png)
+
 这是我过往面试时总结的经验，从个人的Git repo里整理，公开出来，希望能帮助到更多的人。
 
 ref: https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html
