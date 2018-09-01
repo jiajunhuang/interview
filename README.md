@@ -1,8 +1,9 @@
 # 面经分享
 
-- 微信联系我
+- 欢迎订阅Telegram Channel：分享后端相关的精选文章
 
-![](./img/wechat_qrcode.png)
+https://t.me/jiajunhuangcom
+
 
 这是我过往面试时总结的经验，从个人的Git repo里整理，公开出来，希望能帮助到更多的人。
 
